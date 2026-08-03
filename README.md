@@ -1,5 +1,5 @@
 # AI Supply Chain Workflow Automation
-![Dashboard Preview](img1.png)
+![Dashboard Preview](1.png)
 
 ## Overview
 
